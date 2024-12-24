@@ -27,8 +27,8 @@ My name is Miguel De Oliveira Zen, I'm 16 years old. and in this github I want t
 
 <img 
     align="left" 
-    alt="LUA"
-    title="LUA" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
