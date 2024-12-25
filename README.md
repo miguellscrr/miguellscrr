@@ -8,7 +8,7 @@ My name is Miguel De Oliveira Zen, I'm 16 years old. and in this github I want t
     <a href="https://www.youtube.com/@miguelllscrrr990?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Subscribe to my channel" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIVXTgXt18DvJTfro_q5Wvg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
