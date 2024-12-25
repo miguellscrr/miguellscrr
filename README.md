@@ -1,25 +1,9 @@
-# 👩🏻‍💻 Mad Nix
+# 👩🏻‍💻 Mad Nix Developer
 
-**`Developer Mad-Nix`**
 
 My name is Miguel De Oliveira Zen, I'm 16 years old. and in this github I want to be showing you a little bit of my Mad-nix server development. just focused on the MTA:SA platform that me and my team are developing a city/server.
 
-<p align="left">
-    <a href="https://www.youtube.com/@miguelllscrrr990?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Subscribe to my channel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIVXTgXt18DvJTfro_q5Wvg?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@miguelllscrrr990">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCIVXTgXt18DvJTfro_q5Wvg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a>
-</p>
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/MJeJKyZEna)]()
 
 ---
 
