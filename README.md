@@ -1,7 +1,7 @@
-# 👩🏻‍💻 Mad Nix Developer
+# 👩🏻‍💻 Developer
 
 
-My name is Miguel De Oliveira Zen, I'm 16 years old. and in this github I want to be showing you a little bit of my Mad-nix server development. just focused on the MTA:SA platform that me and my team are developing a city/server.
+My name is Miguel De Oliveira Zen, I'm 16 years old. and in this github I want to be showing you a little bit of my Action-City server development. just focused on the FIVEM/GTA5 platform that me and my team are developing a city/server.
 
 ---
 
